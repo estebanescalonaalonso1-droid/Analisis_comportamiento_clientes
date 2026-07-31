@@ -10,7 +10,7 @@ The goal of this project is to simulate a corporate-grade end-to-end data analyt
   
 * Visualization & Insights (Power BI): Build an interactive dashboard that highlights key patterns and trends, enabling stakeholders to make data-driven decisions.
   
-* Report and Presentation: Write a clear project report summarizing your key findings and business recommendations. Prepare a presentation that visually communicates insights and actionable recommendations to stakeholders.
+* Report: A clear project report summarizing the key findings and business recommendations. 
 
 
 # Análisis del comportamiento de clientes
